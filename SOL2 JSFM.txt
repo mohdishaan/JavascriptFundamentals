@@ -1,0 +1,32 @@
+Ques2: Explain the key differences between JavaScript and HTML. Provide examples of situations where 
+you would use each.
+
+Sol:
+Key Differences Between JavaScript and HTML:
+
+1. Purpose:
+
+-> HTML (Hypertext Markup Language): It is a markup language used for structuring content on the web. HTML defines the elements and layout of a webpage, such as headings, paragraphs, images, tables, and forms. HTML is the foundation of any webpage but does not handle logic or interactivity.
+-> JavaScript: It is a programming language used to add interactivity and dynamic behavior to websites. JavaScript enables you to create dynamic content, respond to user inputs, manipulate HTML elements, and communicate with servers without needing to reload the page.
+
+2. Function;
+
+-> HTML: Describes the structure and layout of the webpage. It defines elements like <div>, <h1>, <p>, <img>, and <form> to display static content.
+-> JavaScript: Executes logic and behavior, such as responding to user actions (clicks, scrolls, form submissions), dynamically updating the content (adding/removing elements), and handling calculations, validations, or data fetching.
+
+3. Syntax:
+
+-> HTML: Uses tags to define elements. Each tag typically has an opening <tag> and a closing </tag> (e.g., <p>Hello World!</p> for a paragraph).
+-> JavaScript: Uses statements and functions. It's a programming language with variables, loops, conditionals, and functions (e.g., let x = 5;).
+
+When to use HTML:
+
+-> Defining Page Structure: When you need to create the structure and layout of a webpage, such as creating headings, paragraphs, images, tables, and forms.
+-> Static Content: When the content on the page is static and doesn't change based on user interactions
+-> Links and Navigation: HTML is used to create hyperlinks and navigation menus
+
+When to use JavaScript:
+
+-> Interactive Features: JavaScript is used when you need interactivity, such as when a button click should trigger an action
+-> Dynamic Content Updates: JavaScript can be used to dynamically change the content on the page without reloading
+-> Form Validation: When you want to validate form inputs before submitting them to the server
